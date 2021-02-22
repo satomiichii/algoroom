@@ -22,7 +22,7 @@ pairSum([], 1) -> false
 
 There are two approarch for this problem. The first one is using nested for loop to iterate through the array to examine every possible pair in the array. This approarch is 0(N^2) time complexity with O(1) space complexity.
 
-The second approarch is using 2 pointers and sorted array. The left pointer starts off from the 0 index of the array which is the smallest number, and the right pointer is from the last index of the array which is the largest number. While the left pointer index is less than the right pointer, check if the sum of the 2 index aganst the target and if it's less than the target, increment the left pointer by 1. else if the sum is greater than the target, decrement the right pointer by 1.
+The second approarch is using 2 pointers and sorted array. The left pointer starts off from the 0 index of the array which is the smallest number, and the right pointer is from the last index of the array which is the largest number. While the left pointer index is less than the right pointer, check if the sum of the 2 index aganst the target and if it's less than the target, increment the left pointer by 1. else if the sum is greater than the target, decrement the right pointer by 1. This approarch is O(N) time complexity with 0(1) space complexity.
 
 # Solution
 
