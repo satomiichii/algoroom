@@ -18,6 +18,10 @@ The naive approarch is using nested loop. loop through the each loop and check i
 
 The optimized approarch is utilizing a frequency counter such as an object. Store all the squared keys of arr1 with the frequency as the value. Then loop through the array2 and check if there is a corresponding key, if so decrement the number of the value by 1. if not, return false.
 
+# Solution
+
+Check the solution.js
+
 # Credit
 
 This prompt is from Colt Steele's Algorithms and Data Structure course on Udemy.
