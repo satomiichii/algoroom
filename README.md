@@ -7,3 +7,5 @@ This repository is built for algorithm problems and practice, recalibrating and 
 ## Current Problem
 
 - Pair Sum
+- Frequency Counters
+- Anagrams
