@@ -9,3 +9,4 @@ This repository is built for algorithm problems and practice, recalibrating and 
 - Pair Sum
 - Frequency Counters
 - Anagrams
+- Sum Zero
