@@ -10,3 +10,4 @@ This repository is built for algorithm problems and practice, recalibrating and 
 - Frequency Counters
 - Anagrams
 - Sum Zero
+- Count Unique Values

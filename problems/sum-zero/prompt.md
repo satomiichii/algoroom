@@ -21,3 +21,7 @@ The time complexity of this solution is O(N) and the space complexity is O(1)
 # Solution
 
 Check solution.js
+
+# Credit
+
+This prompt is from Colt Steele's Algorithms and Data Structure course on Udemy.
