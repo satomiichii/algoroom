@@ -1,10 +1,10 @@
-## Anagrams
+# Anagrams
 
-# Prompt
+## Prompt
 
 Given two strings, write a function to determine if the second string is an anagram of the first. An anagram is a word. phrase or name formed by rearrenging the letters of another, such as cinema formed from iceman.
 
-# Example
+## Example
 
 validAnagram('', '') -> true
 validAnagram('aaz', 'zza') -> false
@@ -13,7 +13,7 @@ validAnagram('rat', ''car') -> false
 validAnagram('awesome', 'awesom') -> false
 validAnagram('qwerty', 'qeywrt') -> true
 
-# Aproarch
+## Aproarch
 
 The optimized solution is using a frequency counter.
 To cover a simple false case, if the length of the two strings is different, immediately return false.
@@ -23,10 +23,10 @@ otherwise, create an object for counting each character and the frequency of the
 Time: O(n)
 Space: O(1)
 
-# Solution
+## Solution
 
 check the solution.js
 
-# Credit
+## Credit
 
 This prompt is from Colt Steele's Algorithms and Data Structure course on Udemy.
