@@ -12,3 +12,4 @@ This repository is built for algorithm problems and practice, recalibrating and 
 - Sum Zero
 - Count Unique Values
 - Max Subarray Sum
+- Same Frequency
