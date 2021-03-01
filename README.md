@@ -14,3 +14,4 @@ This repository is built for algorithm problems and practice, recalibrating and 
 - Max Subarray Sum
 - Same Frequency
 - Min Subarray Length
+- Find Longest Substring
