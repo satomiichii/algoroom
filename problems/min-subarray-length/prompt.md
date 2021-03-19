@@ -15,7 +15,7 @@ minSubArrayLen ([1,4,16,22,5,7,8,9,10], 55) -> 5
 minSubArrayLen ([4,3,3,8,1,2,3], 11) -> 2
 minSubArrayLen ([1,4,16,22,5,7,8,9,10], 95) -> 0
 
-## Approarch
+## Approach
 
 The solution uses sliding window approarch that two pointers keep track of the size of the subarray and check if the sum of the subarray is grater or equal to the target integer. The two pointers start at the 0 index of the array. check if the current total is greater or equal to the target and if not, increment end oiinter by 1 to add next number to the subarra. if the sum matches the target array, increment the start pointer to remove the first element of the subarray and update the min length of the subarray.
 
