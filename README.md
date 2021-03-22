@@ -16,4 +16,4 @@ This repository is built for algorithm problems and practice, recalibrating and 
 - Min Subarray Length
 - Find Longest Substring
 - Merge Two Linked List
-- Nth Fibonatti
+- Nth Fibonacci
