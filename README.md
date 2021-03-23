@@ -17,3 +17,4 @@ This repository is built for algorithm problems and practice, recalibrating and 
 - Find Longest Substring
 - Merge Two Linked List
 - Nth Fibonacci
+- Search in Rotated Sorted Array
