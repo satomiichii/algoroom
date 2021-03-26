@@ -18,3 +18,4 @@ This repository is built for algorithm problems and practice, recalibrating and 
 - Merge Two Linked List
 - Nth Fibonacci
 - Search in Rotated Sorted Array
+- Coin Change
