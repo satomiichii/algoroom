@@ -19,3 +19,4 @@ This repository is built for algorithm problems and practice, recalibrating and 
 - Nth Fibonacci
 - Search in Rotated Sorted Array
 - Coin Change
+- Maximal Square
