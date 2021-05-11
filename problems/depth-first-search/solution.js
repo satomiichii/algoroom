@@ -1,12 +1,9 @@
-function Node(name, children = []) {
-  this.name = name;
-  this.children = children;
-}
-
-function depthFirstSearch(node, array) {
+const depthFirst = (array = [], node) => {
   array.push(node.name);
-  for (let child of node.children) {
-    depthFirstSearch(child, array);
+  if (node.children !== []) {
+    for (let child in node.children) {
+      depthFirst(node);
+    }
   }
   return array;
-}
+};

@@ -21,3 +21,5 @@ This repository is built for algorithm problems and practice, recalibrating and 
 - Coin Change
 - Maximal Square
 - Depth First Search
+- Water Container
+- Remove Nth Node from end of List
