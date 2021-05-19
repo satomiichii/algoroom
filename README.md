@@ -24,3 +24,4 @@ This repository is built for algorithm problems and practice, recalibrating and 
 - Water Container
 - Remove Nth Node from end of List
 - Bubble Sort
+- Selection Sort
