@@ -26,3 +26,4 @@ This repository is built for algorithm problems and practice, recalibrating and 
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
+- Merge Sort

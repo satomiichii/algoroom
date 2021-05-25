@@ -26,7 +26,6 @@ function insertionSort2(arr) {
     for (var j = i - 1; j >= 0 && arr[j] > currentNum; j--) {
       arr[j + 1] = arr[j];
     }
-    console.log(j);
     arr[j + 1] = currentNum;
   }
   return arr;
